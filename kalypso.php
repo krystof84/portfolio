@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en-US">
+<html dir="ltr" lang="pl-PL">
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -44,7 +44,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="index.html" class="standard-logo"><img src="img/logo.png"></a>
+						<a href="index.php" class="standard-logo"><img src="img/logo.png"></a>
 					</div><!-- #logo end -->
 
 				</div>
@@ -61,8 +61,8 @@
 				<h1>Kalypso - motyw WordPress</h1>
 				<div id="portfolio-navigation">
 					<!-- <a href="#"><i class="icon-angle-left"></i></a> -->
-					<a href="index.html"><i class="icon-line-grid"></i></a>
-					<a href="abctax.html"><i class="icon-angle-right"></i></a>
+					<a href="index.php"><i class="icon-line-grid"></i></a>
+					<a href="abctax.php"><i class="icon-angle-right"></i></a>
 				</div>
 			</div>
 
@@ -120,140 +120,7 @@
 					============================================= -->
 					<h4>Podobne:</h4>
 
-					<div id="related-portfolio" class="owl-carousel portfolio-carousel carousel-widget" data-margin="20" data-nav="false" data-autoplay="5000" data-items-xs="1" data-items-sm="2" data-items-md="3" data-items-xl="4">
-
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="kalypso.html">
-										<img src="img/wp-1-min.jpg" alt="Kalypso - Motyw WordPress">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="kalypso.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="kalypso.html">Kalypso</a></h3>
-									<span>Motyw WordPress</span>
-								</div>
-							</div>
-						</div>
-
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="abctax.html">
-										<img src="img/abctax-min.jpg" alt="Abctax - Motyw WordPress">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="abctax.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="abctax.html">Abctax</a></h3>
-									<span>Motyw WordPress</span>
-								</div>
-							</div>
-						</div>
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="viperwing.html">
-										<img src="img/viperwing-min.jpg" alt="Viperwing - Strona statyczna">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="viperwing.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="viperwing.html">Viperwing</a></h3>
-									<span>Strona statyczna</span>
-								</div>
-							</div>
-						</div>
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="designthinkingkurs.html">
-										<img src="img/designthinking-min.jpg" alt="Design Thinking Kurs - Strona statyczna">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="designthinkingkurs.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="designthinkingkurs.html">Design Thinking Kurs</a></h3>
-									<span>Strona statyczna</span>
-								</div>
-							</div>
-						</div>
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="zieloneszczepankowo.html">
-										<img src="img/zielone-szczepankowo-min.jpg" alt="Zielone Szczepankowo - Strona statyczna">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="zieloneszczepankowo.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="zieloneszczepankowo.html">Zielone Szczepankowo</a></h3>
-									<span>Strona statyczna</span>
-								</div>
-							</div>
-						</div>
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="asimpex.html">
-										<img src="img/asimpex-min.jpg" alt="Asimpex - Strona statyczna">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="asimpex.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="asimpex.html">Asimpex</a></h3>
-									<span>Strona statyczna</span>
-								</div>
-							</div>
-						</div>
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="solaris.html">
-										<img src="img/solaris-min.jpg" alt="Solaris - Sklep internetowy">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="solaris.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="solaris.html">Solaris</a></h3>
-									<span>Sklep internetowy</span>
-								</div>
-							</div>
-						</div>
-						<div class="oc-item">
-							<div class="iportfolio">
-								<div class="portfolio-image">
-									<a href="allto.html">
-										<img src="img/allto-min.jpg" alt="Allto - Sklep internetowy">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="allto.html" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="allto.html">Allto</a></h3>
-									<span>Sklep internetowy</span>
-								</div>
-							</div>
-						</div>
-
-					</div><!-- .portfolio-carousel end -->
-
+					<?php include 'include/related.php'; ?>
 
 				</div>
 

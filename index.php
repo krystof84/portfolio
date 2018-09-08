@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en-US">
+<html dir="ltr" lang="pl-PL">
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -44,7 +44,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="index.html" class="standard-logo"><img src="img/logo.png"></a>
+						<a href="index.php" class="standard-logo"><img src="img/logo.png"></a>
 					</div><!-- #logo end -->
 
 				</div>
@@ -97,7 +97,7 @@
 
 						<article class="portfolio-item pf-wordpress">
 							<div class="portfolio-image">
-								<a href="kalypso.html">
+								<a href="kalypso.php">
 									<img src="img/wp-1-min.jpg" alt="Kalypso - motyw WordPress">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -105,18 +105,18 @@
 									<a href="img/full/wp-1a.jpg" data-lightbox="gallery-item" title="Kalypso - motyw WordPress"></a>
 									<a href="img/full/wp-1b.jpg" data-lightbox="gallery-item" title="Kalypso - motyw WordPress"></a>
 									<a href="img/full/wp-1c.jpg" data-lightbox="gallery-item" title="Kalypso - motyw WordPress"></a>
-									<a href="kalypso.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="kalypso.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="kalypso.html">Kalypso</a></h3>
+								<h3><a href="kalypso.php">Kalypso</a></h3>
 								<span>Motyw WordPress</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-wordpress">
 							<div class="portfolio-image">
-								<a href="abctax.html">
+								<a href="abctax.php">
 									<img src="img/abctax-min.jpg" alt="Abctax - motyw WordPress">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -124,18 +124,18 @@
 									<a href="img/full/abctax-2.jpg" data-lightbox="gallery-item" title="Abctax - motyw WordPress"></a>
 									<a href="img/full/abctax-3.jpg" data-lightbox="gallery-item" title="Abctax - motyw WordPress"></a>
 									<a href="img/full/abctax-4.jpg" data-lightbox="gallery-item" title="Abctax - motyw WordPress"></a>
-									<a href="abctax.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="abctax.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="abctax.html">Abctax</a></h3>
+								<h3><a href="abctax.php">Abctax</a></h3>
 								<span>Motyw WordPress</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-static">
 							<div class="portfolio-image">
-								<a href="viperwing.html">
+								<a href="viperwing.php">
 									<img src="img/viperwing-min.jpg" alt="Viperwing - strona statyczna">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -144,34 +144,34 @@
 									<a href="img/full/viperwing-3.jpg" data-lightbox="gallery-item" title="Viperwing - strona statyczna"></a>
 									<a href="img/full/viperwing-4.jpg" data-lightbox="gallery-item" title="Viperwing - strona statyczna"></a>
 									<a href="img/full/viperwing-5.jpg" data-lightbox="gallery-item" title="Viperwing - strona statyczna"></a>
-									<a href="viperwing.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="viperwing.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="viperwing.html">Viperwing</a></h3>
+								<h3><a href="viperwing.php">Viperwing</a></h3>
 								<span>Strona statyczna</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-static">
 							<div class="portfolio-image">
-								<a href="designthinkingkurs.html">
+								<a href="designthinkingkurs.php">
 									<img src="img/designthinking-min.jpg" alt="Design Thinking Kurs - strona statyczna">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
 									<a href="img/full/designthinking-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Design Thinking Kurs - strona statyczna"><i class="icon-line-plus"></i></a>
-									<a href="designthinkingkurs.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="designthinkingkurs.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="designthinkingkurs.html">Design Thinking Kurs</a></h3>
+								<h3><a href="designthinkingkurs.php">Design Thinking Kurs</a></h3>
 								<span>Strona statyczna</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-static">
 							<div class="portfolio-image">
-								<a href="zieloneszczepankowo.html">
+								<a href="zieloneszczepankowo.php">
 									<img src="img/zielone-szczepankowo-min.jpg" alt="Zielone Szczepankowo - strona statyczna">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -180,18 +180,18 @@
 									<a href="img/full/zielone-szczepankowo-3.jpg" data-lightbox="gallery-item" title="Zielone Szczepankowo - strona statyczna"></a>
 									<a href="img/full/zielone-szczepankowo-4.jpg" data-lightbox="gallery-item" title="Zielone Szczepankowo - strona statyczna"></a>
 									<a href="img/full/zielone-szczepankowo-5.jpg" data-lightbox="gallery-item" title="Zielone Szczepankowo - strona statyczna"></a>
-									<a href="zieloneszczepankowo.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="zieloneszczepankowo.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="asimpex.html">Zielone Szczepankowo</a></h3>
+								<h3><a href="asimpex.php">Zielone Szczepankowo</a></h3>
 								<span>Strona statyczna</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-static">
 							<div class="portfolio-image">
-								<a href="asimpex.html">
+								<a href="asimpex.php">
 									<img src="img/asimpex-min.jpg" alt="Asimpex - strona statyczna">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -200,18 +200,18 @@
 									<a href="img/full/asimpex-3.jpg" data-lightbox="gallery-item" title="Asimpex - strona statyczna"></a>
 									<a href="img/full/asimpex-4.jpg" data-lightbox="gallery-item" title="Asimpex - strona statyczna"></a>
 									<a href="img/full/asimpex-5.jpg" data-lightbox="gallery-item" title="Asimpex - strona statyczna"></a>
-									<a href="asimpex.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="asimpex.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="asimpex.html">Asimpex</a></h3>
+								<h3><a href="asimpex.php">Asimpex</a></h3>
 								<span>Strona statyczna</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-graphics pf-shop">
 							<div class="portfolio-image">
-								<a href="solaris.html">
+								<a href="solaris.php">
 									<img src="img/solaris-min.jpg" alt="Solaris - sklep internetowy">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -219,18 +219,18 @@
 									<a href="img/full/solaris-2.jpg" data-lightbox="gallery-item" title="Solaris - sklep internetowy"></a>
 									<a href="img/full/solaris-3.jpg" data-lightbox="gallery-item" title="Solaris - sklep internetowy"></a>
 									<a href="img/full/solaris-4.jpg" data-lightbox="gallery-item" title="Solaris - sklep internetowy"></a>
-									<a href="solaris.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="solaris.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="solaris.html">Solaris</a></h3>
+								<h3><a href="solaris.php">Solaris</a></h3>
 								<span>Sklep internetowy</span>
 							</div>
 						</article>
 
 						<article class="portfolio-item pf-graphics pf-shop">
 							<div class="portfolio-image">
-								<a href="allto.html">
+								<a href="allto.php">
 									<img src="img/allto-min.jpg" alt="Allto - sklep internetowy">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
@@ -238,11 +238,11 @@
 									<a href="img/full/allto-2.jpg" data-lightbox="gallery-item" title="Allto - sklep internetowy"></a>
 									<a href="img/full/allto-3.jpg" data-lightbox="gallery-item" title="Allto - sklep internetowy"></a>
 									<a href="img/full/allto-4.jpg" data-lightbox="gallery-item" title="Allto - sklep internetowy"></a>
-									<a href="allto.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<a href="allto.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
 							<div class="portfolio-desc">
-								<h3><a href="allto.html">Allto</a></h3>
+								<h3><a href="allto.php">Allto</a></h3>
 								<span>Sklep internetowy</span>
 							</div>
 						</article>
