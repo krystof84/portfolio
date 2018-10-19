@@ -62,7 +62,7 @@
 				<div id="portfolio-navigation">
 					<a href="kalypso.php"><i class="icon-angle-left"></i></a>
 					<a href="/portfolio"><i class="icon-line-grid"></i></a>
-					<a href="natours.php"><i class="icon-angle-right"></i></a>
+					<a href="viperwing.php"><i class="icon-angle-right"></i></a>
 				</div>
 			</div>
 

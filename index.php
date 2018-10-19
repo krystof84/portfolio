@@ -97,6 +97,22 @@
 
 						<article class="portfolio-item pf-wordpress">
 							<div class="portfolio-image">
+								<a href="natours.php">
+									<img src="img/natours-min.jpg" alt="Natours - Motyw WordPress">
+								</a>
+								<div class="portfolio-overlay" data-lightbox="gallery">
+									<a href="img/full/natours-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Natours - Motyw WordPress"><i class="icon-line-plus"></i></a>
+									<a href="natours.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								</div>
+							</div>
+							<div class="portfolio-desc">
+								<h3><a href="natours.php">Natours</a></h3>
+								<span>Motyw WordPress</span>
+							</div>
+						</article>
+
+						<article class="portfolio-item pf-wordpress">
+							<div class="portfolio-image">
 								<a href="kalypso.php">
 									<img src="img/wp-1-min.jpg" alt="Kalypso - motyw WordPress">
 								</a>
@@ -130,22 +146,6 @@
 							<div class="portfolio-desc">
 								<h3><a href="abctax.php">Abctax</a></h3>
 								<span>Motyw WordPress</span>
-							</div>
-						</article>
-
-						<article class="portfolio-item pf-static">
-							<div class="portfolio-image">
-								<a href="natours.php">
-									<img src="img/natours-min.jpg" alt="Natours - strona statyczna">
-								</a>
-								<div class="portfolio-overlay" data-lightbox="gallery">
-									<a href="img/full/natours-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Natours - strona statyczna"><i class="icon-line-plus"></i></a>
-									<a href="natours.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="natours.php">Natours</a></h3>
-								<span>Strona statyczna</span>
 							</div>
 						</article>
 

@@ -60,7 +60,7 @@
 			<div class="container clearfix">
 				<h1>Kalypso - motyw WordPress</h1>
 				<div id="portfolio-navigation">
-					<!-- <a href="#"><i class="icon-angle-left"></i></a> -->
+					<a href="natours.php"><i class="icon-angle-left"></i></a>
 					<a href="/portfolio"><i class="icon-line-grid"></i></a>
 					<a href="abctax.php"><i class="icon-angle-right"></i></a>
 				</div>

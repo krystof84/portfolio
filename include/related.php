@@ -3,6 +3,23 @@
 <div class="oc-item">
     <div class="iportfolio">
         <div class="portfolio-image">
+            <a href="natours.php">
+                <img src="img/natours-min.jpg" alt="Natours - Motyw WordPress">
+            </a>
+            <div class="portfolio-overlay">
+                <a href="natours.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+            </div>
+        </div>
+        <div class="portfolio-desc">
+            <h3><a href="natours.php">Natours</a></h3>
+            <span>Motyw WordPress</span>
+        </div>
+    </div>
+</div>
+
+<div class="oc-item">
+    <div class="iportfolio">
+        <div class="portfolio-image">
             <a href="kalypso.php">
                 <img src="img/wp-1-min.jpg" alt="Kalypso - Motyw WordPress">
             </a>
@@ -33,22 +50,7 @@
         </div>
     </div>
 </div>
-<div class="oc-item">
-    <div class="iportfolio">
-        <div class="portfolio-image">
-            <a href="natours.php">
-                <img src="img/natours-min.jpg" alt="Natours - Strona statyczna">
-            </a>
-            <div class="portfolio-overlay">
-                <a href="natours.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
-            </div>
-        </div>
-        <div class="portfolio-desc">
-            <h3><a href="natours.php">Natours</a></h3>
-            <span>Strona statyczna</span>
-        </div>
-    </div>
-</div>
+
 <div class="oc-item">
     <div class="iportfolio">
         <div class="portfolio-image">
