@@ -21,7 +21,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Abctax - motyw WordPress</title>
+	<title>Natours - strona statyczna</title>
 
 </head>
 
@@ -58,11 +58,11 @@
 		<section id="page-title">
 
 			<div class="container clearfix">
-				<h1>Abctax - motyw WordPress</h1>
+				<h1>Natours - strona statyczna</h1>
 				<div id="portfolio-navigation">
-					<a href="kalypso.php"><i class="icon-angle-left"></i></a>
+					<a href="abctax.php"><i class="icon-angle-left"></i></a>
 					<a href="/portfolio"><i class="icon-line-grid"></i></a>
-					<a href="natours.php"><i class="icon-angle-right"></i></a>
+					<a href="viperwing.php"><i class="icon-angle-right"></i></a>
 				</div>
 			</div>
 
@@ -79,10 +79,7 @@
 					<!-- Portfolio Single Image
 					============================================= -->
 					<div class="col_two_third portfolio-single-image nobottommargin" data-lightbox="gallery">
-						<a href="img/full/abctax-1.jpg" data-lightbox="gallery-item"><img src="img/full/abctax-1.jpg" alt=""></a>
-						<a href="img/full/abctax-2.jpg" data-lightbox="gallery-item"></a>
-						<a href="img/full/abctax-3.jpg" data-lightbox="gallery-item"></a>
-						<a href="img/full/abctax-4.jpg" data-lightbox="gallery-item"></a>
+						<a href="img/full/natours-1.jpg" data-lightbox="gallery-item"><img src="img/full/natours-1.jpg" alt=""></a>
 					</div><!-- .portfolio-single-image end -->
 
 					<!-- Portfolio Single Content
@@ -94,9 +91,9 @@
 						<div class="fancy-title title-bottom-border">
 							<h2>Informacje o projekcie:</h2>
 						</div>
-						<p>Motyw WordPress zakodowany przeze mnie na podstawie projektu psd przygotowanego przez grafika. Pełne RWD. Motyw jest oparty na bazie Underscores Starter Theme.</p>
+						<p>Strona statyczna typu one page zakodowana przeze mnie. Pełne RWD. Projekt: Jonass Chmedtman.</p>
 
-						<p>Użyte technologie: HTML5, CSS3, SASS, GULP, PHP, WordPress, Bootstrap, JavaScript, jQuery.</p>
+						<p>Użyte technologie: HTML5, CSS3, SASS, npm</p>
 						<!-- Portfolio Single - Description End -->
 
 						<div class="line"></div>
@@ -105,7 +102,9 @@
 						============================================= -->
 						<ul class="portfolio-meta bottommargin">
 							<li><span><i class="icon-user"></i>Autor:</span> Krzysztof Czajka</li>
-							<li><span><i class="icon-link"></i>Adres url:</span> <a href="http://abctax.com.pl">abctax.com.pl</a></li>
+							<li><span><i class="icon-link"></i>Adres url:</span> <a href="http://wpmajster.pl/portfolio/projekty/natours/">
+                        Projekt natours</a></li>
+                            <li><span><i class="icon-github2"></i>Github:</span> <a href="https://github.com/krystof84/natours">github.com/krystof84/natours</a></li>
 						</ul>
 						<!-- Portfolio Single - Meta End -->
 

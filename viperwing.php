@@ -44,7 +44,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="index.php" class="standard-logo"><img src="img/logo.png"></a>
+						<a href="/portfolio" class="standard-logo"><img src="img/logo.png"></a>
 					</div><!-- #logo end -->
 
 				</div>
@@ -60,8 +60,8 @@
 			<div class="container clearfix">
 				<h1>Viperwing - strona statyczna</h1>
 				<div id="portfolio-navigation">
-					<a href="abctax.php"><i class="icon-angle-left"></i></a>
-					<a href="index.php"><i class="icon-line-grid"></i></a>
+					<a href="natours.php"><i class="icon-angle-left"></i></a>
+					<a href="/portfolio"><i class="icon-line-grid"></i></a>
 					<a href="designthinkingkurs.php"><i class="icon-angle-right"></i></a>
 				</div>
 			</div>

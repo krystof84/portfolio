@@ -44,7 +44,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="index.php" class="standard-logo"><img src="img/logo.png"></a>
+						<a href="/portfolio" class="standard-logo"><img src="img/logo.png"></a>
 					</div><!-- #logo end -->
 
 				</div>
@@ -130,6 +130,22 @@
 							<div class="portfolio-desc">
 								<h3><a href="abctax.php">Abctax</a></h3>
 								<span>Motyw WordPress</span>
+							</div>
+						</article>
+
+						<article class="portfolio-item pf-static">
+							<div class="portfolio-image">
+								<a href="natours.php">
+									<img src="img/natours-min.jpg" alt="Natours - strona statyczna">
+								</a>
+								<div class="portfolio-overlay" data-lightbox="gallery">
+									<a href="img/full/natours-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Natours - strona statyczna"><i class="icon-line-plus"></i></a>
+									<a href="natours.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								</div>
+							</div>
+							<div class="portfolio-desc">
+								<h3><a href="natours.php">Natours</a></h3>
+								<span>Strona statyczna</span>
 							</div>
 						</article>
 
