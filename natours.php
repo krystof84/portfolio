@@ -21,7 +21,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Natours - strona statyczna</title>
+	<title>Natours - motyw WordPress</title>
 
 </head>
 
