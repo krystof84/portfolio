@@ -4,7 +4,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="natours.php">
-                <img src="img/natours-min.jpg" alt="Natours - Motyw WordPress">
+                <img src="dist/img/natours-min.jpg" alt="Natours - Motyw WordPress">
             </a>
             <div class="portfolio-overlay">
                 <a href="natours.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -21,7 +21,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="kalypso.php">
-                <img src="img/wp-1-min.jpg" alt="Kalypso - Motyw WordPress">
+                <img src="dist/img/wp-1-min.jpg" alt="Kalypso - Motyw WordPress">
             </a>
             <div class="portfolio-overlay">
                 <a href="kalypso.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -38,7 +38,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="abctax.php">
-                <img src="img/abctax-min.jpg" alt="Abctax - Motyw WordPress">
+                <img src="dist/img/abctax-min.jpg" alt="Abctax - Motyw WordPress">
             </a>
             <div class="portfolio-overlay">
                 <a href="abctax.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -55,7 +55,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="viperwing.php">
-                <img src="img/viperwing-min.jpg" alt="Viperwing - Strona statyczna">
+                <img src="dist/img/viperwing-min.jpg" alt="Viperwing - Strona statyczna">
             </a>
             <div class="portfolio-overlay">
                 <a href="viperwing.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -71,7 +71,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="designthinkingkurs.php">
-                <img src="img/designthinking-min.jpg" alt="Design Thinking Kurs - Strona statyczna">
+                <img src="dist/img/designthinking-min.jpg" alt="Design Thinking Kurs - Strona statyczna">
             </a>
             <div class="portfolio-overlay">
                 <a href="designthinkingkurs.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -87,7 +87,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="zieloneszczepankowo.php">
-                <img src="img/zielone-szczepankowo-min.jpg" alt="Zielone Szczepankowo - Strona statyczna">
+                <img src="dist/img/zielone-szczepankowo-min.jpg" alt="Zielone Szczepankowo - Strona statyczna">
             </a>
             <div class="portfolio-overlay">
                 <a href="zieloneszczepankowo.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -103,7 +103,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="asimpex.php">
-                <img src="img/asimpex-min.jpg" alt="Asimpex - Strona statyczna">
+                <img src="dist/img/asimpex-min.jpg" alt="Asimpex - Strona statyczna">
             </a>
             <div class="portfolio-overlay">
                 <a href="asimpex.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -119,7 +119,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="solaris.php">
-                <img src="img/solaris-min.jpg" alt="Solaris - Sklep internetowy">
+                <img src="dist/img/solaris-min.jpg" alt="Solaris - Sklep internetowy">
             </a>
             <div class="portfolio-overlay">
                 <a href="solaris.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
@@ -135,7 +135,7 @@
     <div class="iportfolio">
         <div class="portfolio-image">
             <a href="allto.php">
-                <img src="img/allto-min.jpg" alt="Allto - Sklep internetowy">
+                <img src="dist/img/allto-min.jpg" alt="Allto - Sklep internetowy">
             </a>
             <div class="portfolio-overlay">
                 <a href="allto.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>

@@ -1,30 +1,4 @@
-<?php include 'include/header.php' ?>
-
-	<!-- Document Wrapper
-	============================================= -->
-	<div id="wrapper" class="clearfix">
-
-		<!-- Header
-		============================================= -->
-		<header id="header" class="full-header">
-
-			<div id="header-wrap">
-
-				<div class="container clearfix">
-
-					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-					<!-- Logo
-					============================================= -->
-					<div id="logo">
-						<a href="/portfolio" class="standard-logo"><img src="img/logo.png"></a>
-					</div><!-- #logo end -->
-
-				</div>
-
-			</div>
-
-		</header><!-- #header end -->
+<?php include 'dist/includes/header.php' ?>
 
 		<!-- Page Title
 		============================================= -->
@@ -34,7 +8,7 @@
 				<h1>Natours - motyw wordpress</h1>
 				<div id="portfolio-navigation">
 					<!-- <a href="abctax.php"><i class="icon-angle-left"></i></a> -->
-					<a href="/portfolio"><i class="icon-line-grid"></i></a>
+					<a href="/"><i class="icon-line-grid"></i></a>
 					<a href="kalypso.php"><i class="icon-angle-right"></i></a>
 				</div>
 			</div>
@@ -52,7 +26,7 @@
 					<!-- Portfolio Single Image
 					============================================= -->
 					<div class="col_two_third portfolio-single-image nobottommargin" data-lightbox="gallery">
-						<a href="img/full/natours-1.jpg" data-lightbox="gallery-item"><img src="img/full/natours-1.jpg" alt=""></a>
+						<a href="dist/img/full/natours-1.jpg" data-lightbox="gallery-item"><img src="dist/img/full/natours-1.jpg" alt=""></a>
 					</div><!-- .portfolio-single-image end -->
 
 					<!-- Portfolio Single Content
@@ -91,7 +65,7 @@
 					============================================= -->
 					<h4>Podobne:</h4>
 
-					<?php include 'include/related.php'; ?>
+					<?php include 'dist/includes/related.php'; ?>
 
 				</div>
 
@@ -99,4 +73,4 @@
 
 		</section><!-- #content end -->
 
-		<?php include 'include/footer.php' ?>
+		<?php include 'dist/includes/footer.php' ?>

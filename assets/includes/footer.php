@@ -26,12 +26,12 @@
 
 	<!-- External JavaScripts
 	============================================= -->
-	<script src="js/jquery.js"></script>
-	<script src="js/plugins.js"></script>
+	<script src="dist/js/jquery.js"></script>
+	<script src="dist/js/plugins.js"></script>
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="js/functions.js"></script>
+	<script src="dist/js/functions.js"></script>
 
 </body>
 </html>
