@@ -26,16 +26,26 @@ const config = {
                     use: [
                         {
                             loader: 'css-loader',
-                            options: {importLoaders: 1}
+                            options: {importLoaders: 1, sourceMap: true}
                         },
-                        'postcss-loader', 'sass-loader']
+                        {
+                            loader: 'postcss-loader',
+                            options: {sourceMap: true}
+                        }, 
+                        {
+                            loader: 'sass-loader',
+                            options: {sourceMap: true}
+                        }]
                 })
             },
             {
                 test: /\.css$/,
                 use: ExtractTextPlugin.extract({
                     fallback: 'style-loader',
-                    use: ['css-loader', 'postcss-loader']
+                    use: [
+                        {loader: 'css-loader', options: { sourceMap: true }}, 
+                        {loader: 'postcss-loader', options: { sourceMap: true }}
+                    ],
                 })
             },
             {
@@ -95,7 +105,8 @@ const config = {
             notify: true,
             reloadDelay: 0
         }),
-    ]
+    ],
+    devtool: 'source-map'
 };
 
 if (process.env.NODE_ENV === 'production') {
