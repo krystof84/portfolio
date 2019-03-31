@@ -1,19 +1,21 @@
 	<?php  include 'dist/includes/header.php' ?> 
 
-		<!-- Page Title
-		============================================= -->
-		<section id="page-title">
+		<section class="slider">
 
 			<div class="container clearfix">
-				<h1>Portfolio</h1>
-				<span>Najciekawsze projekty</span>
+				<h1 class="slider__header">Tworzenie stron internetowych</h1>
+
+				<img src="dist/img/programming.svg" alt="Budowa stron internetowych" class="slider__img">
 			</div>
 
-		</section><!-- #page-title end -->
+		</section>
 
-		<!-- Content
-		============================================= -->
 		<section id="content">
+			<div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+			<div id="projekty" class="heading-block title-center page-section">
+				<h2>Portfolio</h2>
+				<span>Najciekawsze projekty</span>
+			</div>
 
 			<div class="content-wrap">
 

@@ -34,7 +34,10 @@ const config = {
                         }, 
                         {
                             loader: 'sass-loader',
-                            options: {sourceMap: true}
+                            options: {
+                                includePaths: ['assets/scss/', 'dist/css/'],
+                                sourceMap: true
+                            }
                         }]
                 })
             },

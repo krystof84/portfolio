@@ -22,24 +22,22 @@
 	============================================= -->
 	<div id="wrapper" class="clearfix">
 
-		<!-- Header
-		============================================= -->
-		<header id="header" class="full-header">
-
+		<header id="header">
 			<div id="header-wrap">
-
 				<div class="container clearfix">
-
 					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
-					<!-- Logo
-					============================================= -->
 					<div id="logo">
-						<a href="/" class="standard-logo"><img src="dist/img/logo.png"></a>
-					</div><!-- #logo end -->
+						<a href="/" class="standard-logo"><img src="dist/img/logo.svg"></a>
+					</div>
 
+					<nav id="primary-menu">
+						<ul class="one-page-menu">
+							<!-- <li class="current"><a href="#" data-href="#oferta"><div>Oferta</div></a></li> -->
+							<li><a href="#" data-href="#projekty"><div>Portdolio</div></a></li>
+							<!-- <li><a href="#" data-href="#kontakt"><div>Kontakt</div></a></li> -->
+						</ul>
+					</nav>
 				</div>
-
 			</div>
-
-		</header><!-- #header end -->
+		</header>

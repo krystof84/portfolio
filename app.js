@@ -5,3 +5,5 @@ import './assets/css/font-icons.css';
 import './assets/css/animate.css';
 import './assets/css/magnific-popup.css';
 import './assets/css/responsive.css';
+
+import './assets/scss/main.scss'
