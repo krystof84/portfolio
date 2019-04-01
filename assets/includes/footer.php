@@ -9,7 +9,7 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Copyrights &copy; 2018 Krzysztof Czajka
+						Copyrights &copy; <?php echo date('Y'); ?> Krzysztof Czajka
 					</div>
 
 				</div>
@@ -26,6 +26,7 @@
 
 	<!-- External JavaScripts
 	============================================= -->
+	<script src='https://www.google.com/recaptcha/api.js'></script>
 	<script src="dist/js/jquery.js"></script>
 	<script src="dist/js/plugins.js"></script>
 

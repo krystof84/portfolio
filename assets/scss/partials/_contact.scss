@@ -1,0 +1,12 @@
+.contact {
+    background: #f7f6f6;
+    padding-top: 1px;
+
+    &__form .btn {
+        background: $mainAccentColor;
+        color: #fff;
+        font-weight: bold;
+        letter-spacing: .12rem;
+        text-transform: uppercase;
+    }
+}

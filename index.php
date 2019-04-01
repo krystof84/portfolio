@@ -3,7 +3,7 @@
 		<section class="slider">
 
 			<div class="container clearfix">
-				<h1 class="slider__header">Tworzenie stron internetowych</h1>
+				<h1 class="slider__header">Budowa stron <br/>internetowych Poznań</h1>
 
 				<img src="dist/img/programming.svg" alt="Budowa stron internetowych" class="slider__img">
 			</div>
@@ -12,7 +12,7 @@
 
 		<section id="content">
 			<div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
-			<div id="projekty" class="heading-block title-center page-section">
+			<div id="projects" class="heading-block title-center page-section">
 				<h2>Portfolio</h2>
 				<span>Najciekawsze projekty</span>
 			</div>
@@ -29,10 +29,8 @@
 						<li><a href="#" data-filter=".pf-wordpress">Motywy WordPress</a></li>
 						<li><a href="#" data-filter=".pf-static">Strony statyczne</a></li>
 						<li><a href="#" data-filter=".pf-shop">Sklepy internetowe</a></li>
-						<!-- <li><a href="#" data-filter=".pf-media">Media</a></li>
-						<li><a href="#" data-filter=".pf-graphics">Graphics</a></li> -->
 
-					</ul><!-- #portfolio-filter end -->
+					</ul>
 
 					<div class="portfolio-shuffle" data-container="#portfolio">
 						<i class="icon-random"></i>
@@ -212,12 +210,44 @@
 							</div>
 						</article>
 
-					</div><!-- #portfolio end -->
+					</div>
 
 				</div>
 
 			</div>
+		</section>
 
-		</section><!-- #content end -->
+		<!-- KONTAKT -->
+		<section id="contact" class="contact">
+			<div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+			<div class="heading-block title-center page-section">
+				<h2>Kontakt</h2>
+			</div>
+
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-12 col-sm-6">
+						<form class="contact__form" action="succeed.php" method="post">
+							<div class="form-group">
+								<label for="name">Imię</label>
+								<input type="text" class="form-control" id="name" name="name">
+							</div>
+							<div class="form-group">
+								<label for="email">Email</label>
+								<input type="email" class="form-control" id="email" name="email">
+							</div>
+							<div class="form-group">
+								<label for="message">Wiadomość</label>
+								<textarea class="form-control" rows="5" id="message" name="message"></textarea>
+							</div>
+							<div class="form-group">
+								<div class="g-recaptcha" data-sitekey="6Le7QpsUAAAAAN2Mf5vs_ECKYkWDrVBOwSbV9NAQ"></>
+							</div>
+							<button type="submit" class="btn mt-3">Wyślij</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
 
 <?php include 'dist/includes/footer.php' ?>
