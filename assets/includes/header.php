@@ -3,7 +3,6 @@
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
 
 	<title>Profesjonalne strony internetowe - Poznań. Tworzenie stron www.</title>
 	<meta name="description" content="Wykonuje nowoczesne strony www: strony HTML, strony WordPress, sklepy WooCommerce."/>
@@ -12,7 +11,7 @@
 	============================================= -->
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
 
-	<link rel="stylesheet" href="./dist/css/app.css?ver=1.0" type="text/css" />
+	<link rel="stylesheet" href="./dist/css/app.css?ver=1.02" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -36,11 +35,12 @@
 		<header id="header">
 			<div id="header-wrap">
 				<div class="container clearfix">
-					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
 					<div id="logo">
-						<a href="/" class="standard-logo"><img src="dist/img/logo.svg"></a>
+						<a href="/"><img src="dist/img/logo.svg"></a>
 					</div>
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
 					<nav id="primary-menu">
 						<ul class="one-page-menu">
@@ -49,6 +49,7 @@
 							<li><a href="#" data-href="#contact"><div>Kontakt</div></a></li>
 						</ul>
 					</nav>
+
 				</div>
 			</div>
 		</header>

@@ -3,7 +3,7 @@
 		<section class="slider">
 
 			<div class="container clearfix">
-				<h1 class="slider__header">Budowa stron <br/>internetowych Poznań</h1>
+				<h1 class="slider__header">Budowa stron <br/>internetowych <br/>Poznań</h1>
 
 				<img src="dist/img/programming.svg" alt="Budowa stron internetowych" class="slider__img">
 			</div>
@@ -230,18 +230,18 @@
 						<form class="contact__form" action="succeed.php" method="post">
 							<div class="form-group">
 								<label for="name">Imię</label>
-								<input type="text" class="form-control" id="name" name="name">
+								<input type="text" class="form-control" id="name" name="name" required>
 							</div>
 							<div class="form-group">
 								<label for="email">Email</label>
-								<input type="email" class="form-control" id="email" name="email">
+								<input type="email" class="form-control" id="email" name="email" required>
 							</div>
 							<div class="form-group">
 								<label for="message">Wiadomość</label>
-								<textarea class="form-control" rows="5" id="message" name="message"></textarea>
+								<textarea class="form-control" rows="5" id="message" name="message" required></textarea>
 							</div>
 							<div class="form-group">
-								<div class="g-recaptcha" data-sitekey="6Le7QpsUAAAAAN2Mf5vs_ECKYkWDrVBOwSbV9NAQ"></>
+								<div class="g-recaptcha" data-sitekey="6Le7QpsUAAAAAN2Mf5vs_ECKYkWDrVBOwSbV9NAQ"></div>
 							</div>
 							<button type="submit" class="btn mt-3">Wyślij</button>
 						</form>

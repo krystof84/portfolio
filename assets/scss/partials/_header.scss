@@ -1,0 +1,48 @@
+
+@media (min-width: 992px) {
+    #logo img {
+        height: auto;
+        max-width: 243px;
+    }
+    
+    header {
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            nav {
+                margin-left: auto;
+            }
+        }
+    }
+    
+}
+
+@media (max-width: 991px) {
+    #logo img {
+        height: auto;
+        max-width: 240px;
+        position: relative;
+        top: 20px;
+    }
+    #primary-menu-trigger {
+        left: auto;
+        right: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    #primary-menu-trigger {
+        left: auto !important;
+        right: 0px;
+        top: 25px;
+    }
+}
+
+@media (max-width: 500px) {
+    #header .container {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+}

@@ -4,17 +4,40 @@
     &__header {
         text-align: center;
         position: absolute;
-        bottom: 12px;
-        left: 50%;
+        bottom: 30px;
+        left: 49%;
         transform: translateX(-50%);
         color: #fff;
         margin: 0;
-        font-size: 2.5rem;
-        line-height: 2.5rem;
+        font-size: 2.8rem;
+        line-height: 2.8rem;
+
+        @media(max-width: 991px) {
+            font-size: 2.2rem;
+            line-height: 2.2rem;
+            bottom: 10px;
+        }
+
     }
 
     &__img {
         display: block;
         margin: 0 auto;
+    }
+}
+
+@media(max-width: 576px) {
+    .slider {
+        &__header {
+            font-size: 1.7rem;
+            line-height: 1.7rem;
+            bottom: 0;
+            color: $textColor;
+            padding: 10px;
+        }
+
+        & > .container {
+            padding-bottom: 140px
+        }
     }
 }

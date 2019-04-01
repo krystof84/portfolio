@@ -1,0 +1,9 @@
+.content-wrap {
+    padding: 25px 0;
+}
+
+@media (max-width: 767px) {
+    #copyrights .col_half:last-child {
+        display: block;
+    }
+}
