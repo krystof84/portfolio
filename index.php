@@ -175,6 +175,22 @@
 
 						<article class="portfolio-item pf-static">
 							<div class="portfolio-image">
+								<a href="octrenera.php">
+									<img src="dist/img/octrenera-min.jpg" alt="OC Trenera - strona statyczna">
+								</a>
+								<div class="portfolio-overlay" data-lightbox="gallery">
+									<a href="dist/img/full/octrenera-1.jpg" class="left-icon" data-lightbox="gallery-item" title="OC Trenera - strona statyczna"><i class="icon-line-plus"></i></a>
+									<a href="octrenera.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								</div>
+							</div>
+							<div class="portfolio-desc">
+								<h3><a href="asimpex.php">OC Trenera</a></h3>
+								<span>Strona statyczna</span>
+							</div>
+						</article>
+
+						<article class="portfolio-item pf-static">
+							<div class="portfolio-image">
 								<a href="asimpex.php">
 									<img src="dist/img/asimpex-min.jpg" alt="Asimpex - strona statyczna">
 								</a>

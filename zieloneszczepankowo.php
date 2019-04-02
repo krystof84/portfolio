@@ -9,7 +9,7 @@
 				<div id="portfolio-navigation">
 					<a href="designthinkingkurs.php"><i class="icon-angle-left"></i></a>
 					<a href="/"><i class="icon-line-grid"></i></a>
-					<a href="asimpex.php"><i class="icon-angle-right"></i></a>
+					<a href="octrenera.php"><i class="icon-angle-right"></i></a>
 				</div>
 			</div>
 
@@ -44,7 +44,7 @@
 						</div>
 						<p>Strona statyczna zakodowana przeze mnie na podstawie projektu psd.</p>
 
-						<p>Użyte technologie: HTML5, CSS3, Bootstrap, JavaScript, jQuery.</p>
+						<p>Użyte technologie: HTML5, CSS3, SASS, Bootstrap 3, Gulp, JavaScript, jQuery.</p>
 						<!-- Portfolio Single - Description End -->
 
 						<div class="line"></div>

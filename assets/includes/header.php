@@ -69,8 +69,20 @@
 					<nav id="primary-menu">
 						<ul class="one-page-menu">
 							<!-- <li class="current"><a href="#" data-href="#oferta"><div>Oferta</div></a></li> -->
-							<li><a href="#" data-href="#projects"><div>Portdolio</div></a></li>
-							<li><a href="#" data-href="#contact"><div>Kontakt</div></a></li>
+
+							<?php 
+							
+								if( $_SERVER['PHP_SELF'] == '/index.php' ): ?>
+									<li><a href="#" data-href="#projects"><div>Portdolio</div></a></li>
+									<li><a href="#" data-href="#contact"><div>Kontakt</div></a></li>
+								<?php
+								else: ?>
+									<li><a href="https://www.krzysztofczajka.dev/#projects"><div>Portdolio</div></a></li>
+									<li><a href="https://www.krzysztofczajka.dev/#contact"><div>Kontakt</div></a></li>
+								<?php
+								endif;
+						
+							?>
 						</ul>
 					</nav>
 
