@@ -14,6 +14,30 @@
 	<link rel="stylesheet" href="./dist/css/app.css?ver=1.02" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+	<!-- Cookie consent  -->
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+	<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+	<script>
+	window.addEventListener("load", function(){
+	window.cookieconsent.initialise({
+		"palette": {
+		"popup": {
+			"background": "#252e39"
+		},
+		"button": {
+			"background": "#1ABC9C",
+			"text": "#fff"
+		}
+		},
+		"content": {
+		"message": "Instalujemy i wykorzystujemy pliki cookies oraz podobne technologie m.in. w celu ułatwienia korzystania z serwisu, w celu reklamowym oraz statystycznym. Jeżeli nie zmienisz ustawień przeglądarki, wyrażasz na to zgodę. Szczegóły w",
+		"dismiss": "Zamknij",
+		"link": "polityce prywatności",
+		"href": "https://www.krzysztofczajka.dev/polityka-prywatnosci.pdf"
+		}
+	})});
+	</script>
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42423600-13"></script>
 	<script>
