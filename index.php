@@ -48,7 +48,9 @@
 									<img src="dist/img/natours-min.jpg" alt="Natours - Motyw WordPress">
 								</a>
 								<div class="portfolio-overlay" data-lightbox="gallery">
-									<a href="dist/img/full/natours-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Natours - Motyw WordPress"><i class="icon-line-plus"></i></a>
+									<a href="dist/img/full/natours-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Natours - Motyw WordPress">
+										<i class="icon-line-plus"></i>
+									</a>
 									<a href="natours.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 								</div>
 							</div>
@@ -92,6 +94,25 @@
 							</div>
 							<div class="portfolio-desc">
 								<h3><a href="abctax.php">Abctax</a></h3>
+								<span>Motyw WordPress</span>
+							</div>
+						</article>
+
+						<article class="portfolio-item pf-wordpress">
+							<div class="portfolio-image">
+								<a href="otrprojekt.php">
+									<img src="dist/img/otrprojekt-min.jpg" alt="Otr Projekt - motyw WordPress">
+								</a>
+								<div class="portfolio-overlay" data-lightbox="gallery">
+									<a href="dist/img/full/otrprojekt-1.jpg" class="left-icon" data-lightbox="gallery-item" title="Otr Projekt - motyw WordPress"><i class="icon-line-plus"></i></a>
+									<a href="dist/img/full/otrprojekt-2.jpg" data-lightbox="gallery-item" title="Otr Projekt - motyw WordPress"></a>
+									<a href="dist/img/full/otrprojekt-3.jpg" data-lightbox="gallery-item" title="Otr Projekt - motyw WordPress"></a>
+									<a href="dist/img/full/otrprojekt-4.jpg" data-lightbox="gallery-item" title="Otr Projekt - motyw WordPress"></a>
+									<a href="otrprojekt.php" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								</div>
+							</div>
+							<div class="portfolio-desc">
+								<h3><a href="otrprojekt.php">Otr Projekt</a></h3>
 								<span>Motyw WordPress</span>
 							</div>
 						</article>

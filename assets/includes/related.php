@@ -54,6 +54,23 @@
 <div class="oc-item">
     <div class="iportfolio">
         <div class="portfolio-image">
+            <a href="otrprojekt.php">
+                <img src="dist/img/otrprojekt-min.jpg" alt="Otr Projekt - Motyw WordPress">
+            </a>
+            <div class="portfolio-overlay">
+                <a href="otrprojekt.php" class="center-icon"><i class="icon-line-ellipsis"></i></a>
+            </div>
+        </div>
+        <div class="portfolio-desc">
+            <h3><a href="otrprojekt.php">Otr Projekt</a></h3>
+            <span>Motyw WordPress</span>
+        </div>
+    </div>
+</div>
+
+<div class="oc-item">
+    <div class="iportfolio">
+        <div class="portfolio-image">
             <a href="viperwing.php">
                 <img src="dist/img/viperwing-min.jpg" alt="Viperwing - Strona statyczna">
             </a>
