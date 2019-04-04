@@ -11,7 +11,7 @@
 	============================================= -->
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
 
-	<link rel="stylesheet" href="./dist/css/app.css?ver=1.02" type="text/css" />
+	<link rel="stylesheet" href="./dist/css/app.css?ver=1.03" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Cookie consent  -->
@@ -73,12 +73,14 @@
 							<?php 
 							
 								if( $_SERVER['PHP_SELF'] == '/index.php' ): ?>
-									<li><a href="#" data-href="#projects"><div>Portdolio</div></a></li>
-									<li><a href="#" data-href="#contact"><div>Kontakt</div></a></li>
+									<li><a href="#" data-href="#offer">Oferta</a></li>
+									<li><a href="#" data-href="#projects">Portdolio</a></li>
+									<li><a href="#" data-href="#contact">Kontakt</a></li>
 								<?php
 								else: ?>
-									<li><a href="https://www.krzysztofczajka.dev/#projects"><div>Portdolio</div></a></li>
-									<li><a href="https://www.krzysztofczajka.dev/#contact"><div>Kontakt</div></a></li>
+									<li><a href="https://www.krzysztofczajka.dev/#oferta">Oferta</a></li>
+									<li><a href="https://www.krzysztofczajka.dev/#projects">Portdolio</a></li>
+									<li><a href="https://www.krzysztofczajka.dev/#contact">Kontakt</a></li>
 								<?php
 								endif;
 						

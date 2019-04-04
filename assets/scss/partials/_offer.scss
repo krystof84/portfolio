@@ -1,0 +1,32 @@
+.offer-item {
+    text-align: center;
+    padding: 0 30px;
+    margin-top: 30px;
+
+    &__image {
+        width: 45%;
+        margin-bottom: 25px;
+    }
+
+    &__heading {
+        font-size: 1.8rem;
+        line-height: 2.1rem;
+        margin: 0 0 20px 0;
+    }
+
+    &__desc {
+        font-size: 1rem;
+    }
+}
+
+@media(max-width: 991px) {
+    .offer-item {
+        padding: 0 15px;
+    }
+}
+
+@media(max-width: 500px) {
+    .offer-item {
+        padding: 0;
+    }
+}

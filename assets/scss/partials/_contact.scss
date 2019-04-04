@@ -10,3 +10,25 @@
         text-transform: uppercase;
     }
 }
+
+.contactIcons {
+    text-align: center;
+    margin-bottom: 25px;
+
+    &__item {
+        font-size: 18px;
+        margin-right: 25px;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+@media(max-width: 450px) {
+    .contactIcons__item {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+}

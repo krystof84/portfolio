@@ -10,9 +10,59 @@
 
 		</section>
 
-		<section id="content">
+		<section id="offer">
 			<div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
-			<div id="projects" class="heading-block title-center page-section">
+			<div class="heading-block title-center page-section">
+				<h2>Oferta</h2>
+			</div>
+
+			<div class="container">
+				<div class="row offer">
+					<div class="col-12 col-sm-6 col-md-4 offer-item">
+						<img src="dist/img/icons/1.svg" class="offer-item__image" alt="Strony internetowe">
+						<h2 class="offer-item__heading">Strony internetowe</h2>
+						<p class="offer-item__desc">Wykonuje profesjonalne kodowanie projektu PSD do HTML. W pracy wykorzystuje takie technologie jak: HTML5, CSS3, SASS, Bootstrap, JS, Jquery. Koduje zgodnie ze standardami.</p>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-4 offer-item">
+						<img src="dist/img/icons/2.svg" class="offer-item__image" alt="Motywy WordPress">
+						<h2 class="offer-item__heading">Motywy WordPress</h2>
+						<p class="offer-item__desc">Wykonuje konwersje projektu PSD do motywu WordPress. Zakodowane przeze mnie Motywy są w pełni responywne, łatwe w aktualizacji i funkcjonalne.</p>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-4 offer-item">
+						<img src="dist/img/icons/4.svg" class="offer-item__image" alt="Sklepy WooCommerce">
+						<h2 class="offer-item__heading">Sklepy WooCommerce</h2>
+						<p class="offer-item__desc">Wykonuje instalacje, konfiguracje oraz modyfikacje sklepów WooCommerce. Jeśli potrzebujesz zmiany wyglądu swojego sklepu WooCommerce to mogę Ci w tym pomóc.</p>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-4 offer-item">
+						<img src="dist/img/icons/7.svg" class="offer-item__image" alt="Administracja stronami WordPress">
+						<h2 class="offer-item__heading">Opieka nad stronami WordPress</h2>
+						<p class="offer-item__desc">Zajmuje się również kompleksową administracją stron WordPress. W ramach tej usługi regularnie robię backup strony oraz dokonuje aktualizacji WordPressa i wszystkich wtyczek. Oprócz tego wdrażam również certyfikaty SSL i robię migrację stron.</p>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-4 offer-item">
+						<img src="dist/img/icons/6.svg" class="offer-item__image" alt="Optymalizacja stron internetowych">
+						<h2 class="offer-item__heading">Optymalizacja stron i wdrożenia audytów SEO</h2>
+						<p class="offer-item__desc">Dokonuje optymalizacji internetowych pod kątem ładowania. Zajmuje się również wdrażeniem zaleceń z audytów SEO dla stron opartych o cms Wordpress.</p>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-4 offer-item">
+						<img src="dist/img/icons/3.svg" class="offer-item__image" alt="Wdrożenia gotowych motywów WordPress">
+						<h2 class="offer-item__heading">Wdrożenia gotowych motywów WordPress</h2>
+						<p class="offer-item__desc">Pomagam przy wyborze motywu WordPress. Dokonuje instalacji, konfiguracji motywu oraz zapełniam go treścią.</p>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+
+		<!-- PORTFOLIO -->
+		<section id="projects">
+			<div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+			<div class="heading-block title-center page-section">
 				<h2>Portfolio</h2>
 				<span>Najciekawsze projekty</span>
 			</div>
@@ -259,6 +309,14 @@
 			<div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
 			<div class="heading-block title-center page-section">
 				<h2>Kontakt</h2>
+			</div>
+
+			<div class="container">
+				<div class="contactIcons">
+					<a class="contactIcons__item" href="https://github.com/krystof84/"><i class="icon-github-circled"></i> Github</a>
+					<a class="contactIcons__item" href="https://www.linkedin.com/in/krzysztof-czajka-617287111/"><i class="icon-linkedin"></i> LinkedIn </a>
+					<a class="contactIcons__item" href="tel:+48791171656"><i class="icon-phone3"></i> 791 171 656</a>
+				</div>
 			</div>
 
 			<div class="container">

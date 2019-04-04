@@ -9,7 +9,8 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Copyrights &copy; <?php echo date('Y'); ?> Krzysztof Czajka
+						Copyrights &copy; <?php echo date('Y'); ?> Krzysztof Czajka<br/>
+						<p>Icon made by Freepik from <a href="https://www.flaticon.com/" style="color: rgba(255,255,255,0.25);">www.flaticon.com</a> </p>
 					</div>
 
 				</div>
